@@ -41,6 +41,11 @@ The customer has on their side connected their shopping list to the same app, an
 <img src="./design/vendor/a4.png" width="300" />
 </p>
 
+**Mobile Application** 
+*by Hubert Kołcz & Michelle von Huth 
+* Created a simple React Native mobile application. We managed within the limited timeframe to create a few interactive pages, but did not manage to finish it and properly implement the image processing. 
+
+
 **Endpoints** by Piotr Andziak, Mira Metzeger, and Hubert Kołcz 
 *made for the purpose of front-end testing during hackathon, 
 instances may be unavailable*
@@ -62,6 +67,7 @@ https://hr9cixszx9.execute-api.eu-central-1.amazonaws.com/items (PUT)
 - Design/Ideation: Michelle von Huth
 - Support/Ideation: Paulina Lipska
 - Image processing/Cloud: Piotr Andziak & Mira Metzeger
+- Mobile application: Hubert Kołcz & Michelle von Huth
 
 ![](team/IMG_8649.jpg)
 ![](team/IMG_8948.jpg)
