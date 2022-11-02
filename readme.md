@@ -41,9 +41,9 @@ The customer has on their side connected their shopping list to the same app, an
 <img src="./design/vendor/a4.png" width="300" />
 </p>
 
-**Mobile Application** 
+**Mobile Application**
 *by Hubert Kołcz & Michelle von Huth 
-* Created a simple React Native mobile application. We managed within the limited timeframe to create a few interactive pages, but did not manage to finish it and properly implement the image processing. 
+Created a simple React Native mobile application. We managed within the limited timeframe to create a few interactive pages, but did not manage to finish it and properly implement the image processing. 
 
 
 **Endpoints** by Piotr Andziak, Mira Metzeger, and Hubert Kołcz 
