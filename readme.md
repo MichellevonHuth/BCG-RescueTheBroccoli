@@ -41,16 +41,17 @@ The customer has on their side connected their shopping list to the same app, an
 <img src="./design/vendor/a4.png" width="300" />
 </p>
 
+
+
 **Mobile Application** *by Hubert Kołcz & Michelle von Huth* 
 
-Created a simple React Native mobile application. We managed within the limited timeframe to create a few interactive pages, but did not manage to finish it and properly implement the image processing. 
-
-We used a React Native teamplate as a skeleton taken from Instamobile: https://instamobile.io/app-templates/food-app-template/
+Created a simple React Native mobile application. We managed within the limited timeframe to create a few interactive pages, but did not manage to finish it and properly implement the image processing. We used a React Native teamplate as a skeleton taken from Instamobile: https://instamobile.io/app-templates/food-app-template/
 
 <p float="left">
 <img width="415" alt="insta1" src="https://user-images.githubusercontent.com/56582203/199430758-64c44ecf-2258-4e3e-a662-6ff900e89e65.png">
 <img width="400" alt="insta2" src="https://user-images.githubusercontent.com/56582203/199430771-acc6aa59-beaa-43bd-bc2e-cf112bd5eb59.png">
 </p>
+
 
 
 **Endpoints** by Piotr Andziak, Mira Metzeger, and Hubert Kołcz 
