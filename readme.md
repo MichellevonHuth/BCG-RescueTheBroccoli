@@ -48,7 +48,7 @@ Created a simple React Native mobile application. We managed within the limited 
 We used a React Native teamplate as a skeleton taken from Instamobile: https://instamobile.io/app-templates/food-app-template/
 
 <p float="left">
-<img width="500" alt="insta1" src="https://user-images.githubusercontent.com/56582203/199430758-64c44ecf-2258-4e3e-a662-6ff900e89e65.png">
+<img width="517" alt="insta1" src="https://user-images.githubusercontent.com/56582203/199430758-64c44ecf-2258-4e3e-a662-6ff900e89e65.png">
 <img width="500" alt="insta2" src="https://user-images.githubusercontent.com/56582203/199430771-acc6aa59-beaa-43bd-bc2e-cf112bd5eb59.png">
 </p>
 
